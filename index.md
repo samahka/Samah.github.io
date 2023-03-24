@@ -13,4 +13,4 @@ Welcome to my Github page
 
 random things
 
-[My second page.](https://https://tejkaa.github.io/Samah/second)
+[My second page.](https://https://samahka.github.io/Samah/second)
