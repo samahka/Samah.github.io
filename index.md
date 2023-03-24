@@ -14,3 +14,5 @@ Welcome to my Github page
 [Example Link to Google](https://www.google.com)
 
 random things
+
+[My second page.](https://https://tejkaa.github.io/Samah/second)
